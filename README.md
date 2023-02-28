@@ -1,6 +1,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=trueline_height=25&theme=nord" >
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=holi-theme" width="450" >
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=nord" width="450" >
 
 # Hey, I'm Atakan Turgut! 
 I'm studying computer engineering at Suleyman Demirel University. <br />
