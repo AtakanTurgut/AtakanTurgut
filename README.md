@@ -1,4 +1,3 @@
-![ ](https://youtu.be/YPHn4xSvjNM)
 # Hey, I'm Atakan Turgut! 
 I'm studying computer engineering at Suleyman Demirel University. <br />
 Interested in artificial intelligence, machine learning and deep learning, besides .NET technologies.
