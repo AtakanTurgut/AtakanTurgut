@@ -4,7 +4,7 @@
 
 # Hey, I'm Atakan Turgut! 
 I'm studying computer engineering at Suleyman Demirel University. <br />
-Interested in artificial intelligence, machine learning and deep learning, besides ASP.NET technologies.
+Interested in artificial intelligence, machine learning and deep learning, besides .NET technologies.
 <p align="left">
  <h1>
 <a href="https://www.instagram.com/atkn.trgt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AtakanTurgut" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/atakan-turgut-8b3847206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AtakanTurgut" height="30" width="40" /></a>&nbsp;<a href="mailto: atakan.trgt@hotmail.com" target="blank"><img align="center" src="https://github.com/prmack/16pxls/blob/master/dist/png/%402x/Mail-Open%402x.png" alt="AtakanTurgut" height="35" width="35" /></a>&nbsp;<a href="https://github.com/AtakanTurgut/AtakanTurgut/blob/aboutMe/Atakan_Turgut_Brief.pdf"><img align="center" src="https://static-00.iconduck.com/assets.00/canva-icon-512x512-q41pwse8.png" alt="AtakanTurgut" height="35" width="35" /></a>
