@@ -1,7 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YPHn4xSvjNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=trueline_height=25&theme=nord" >
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=nord" width="450" >
-
+![ ](https://youtu.be/YPHn4xSvjNM)
 # Hey, I'm Atakan Turgut! 
 I'm studying computer engineering at Suleyman Demirel University. <br />
 Interested in artificial intelligence, machine learning and deep learning, besides .NET technologies.
