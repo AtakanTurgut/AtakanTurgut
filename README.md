@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=trueline_height=25&theme=prussian" >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=trueline_height=25&theme=prussiane" >
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=prussian" width="450" >
 
 # Hey, I'm Atakan Turgut! 
