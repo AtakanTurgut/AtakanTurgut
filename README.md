@@ -1,5 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=trueline_height=25&theme=prussian" >
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=prussian" width="450" >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=trueline_height=25&theme=rose_pine" >
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=rose_pine" width="450" >
 
 # Hey, I'm Atakan Turgut! 
 I'm studying computer engineering at Suleyman Demirel University. <br />
