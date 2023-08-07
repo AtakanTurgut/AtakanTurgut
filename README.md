@@ -11,10 +11,11 @@ Interested in artificial intelligence, machine learning and deep learning, besid
   </h1>
 </p>
 <p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="csharp" width="40" height="40"/></a> 
 <a align="left" href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"><img src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg" alt="dotNet" height="40" width="40" /></a>
 <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="unity" width="40" height="40"/></a>
-<a align="left" href="https://www.microsoft.com/en-US/download/details.aspx?id=101064" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vsstudio" height="40" width="40" /></a>
+<a align="left" href="https://www.microsoft.com/en-US/download/details.aspx?id=101064" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vstudio" height="40" width="40" /></a>
+ <a align="left" href="https://www.microsoft.com/en-US/download/details.aspx?id=101064" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="40" width="40" /></a>
 <a align="left" href="https://www.microsoft.com/en-US/download/details.aspx?id=101064" target="_blank"><img src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" alt="mssqlsms" height="40" width="40" /></a>
 </p>
 <p>
