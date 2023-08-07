@@ -25,7 +25,7 @@ Interested in artificial intelligence, machine learning and deep learning, besid
 <a align="left" href="https://github.com/AtakanTurgut" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" height="40" width="40" /></a>
 </p>
 
-<!--<a href="https://github.com/AtakanTurgut/python-QRCode"><img src="https://raw.githubusercontent.com/AtakanTurgut/python-QRCode/main/iLoveThisPlaylist.jpg" alt="qrcode" width="100" height="100"/></a>-->
+<!--<a href="https://github.com/AtakanTurgut/python-QRCode"><img src="https://raw.githubusercontent.com/AtakanTurgut/python-QRCode/main/iLoveThisPlaylist.jpg" alt="qrcode" width="100" height="100"/></a>
   
 ![](https://github.com/AtakanTurgut/python-mp4gif/blob/main/gifGameLittle.gif)
-
+-->
