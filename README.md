@@ -4,7 +4,7 @@
 # Hey, I'm Atakan Turgut! 
 Süleyman Demirel University. <br />
 Computer Engineering 4th Year Student from 2020 to present.  <br />
-Interested in artificial intelligence, machine learning and deep learning, besides .NET technologies.  <br />
+Interested in artificial intelligence, machine learning and deep learning, besides .NET Technologies.  <br />
 <p align="left">
  <h1>
 <a href="https://www.instagram.com/atkn.trgt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/atakan-turgut-8b3847206" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a target="_blank" href="https://github.com/AtakanTurgut/AtakanTurgut/blob/aboutMe/Atakan_Turgut_Brief.pdf"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1803/1803198.png" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a href="mailto: atakan.trgt@hotmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="AtakanTurgutMail" height="40" width="40" /></a>
@@ -22,7 +22,7 @@ Interested in artificial intelligence, machine learning and deep learning, besid
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a align="left" target="_blank" href="https://www.youtube.com/watch?v=-sAmO2TUzgI&t=177s" target="blank"><img src="https://cdn.dida.do/blog/20210409_di_cv-labeling-tools/labelimg.png" alt="labelImg" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a align="left" href="https://github.com/AtakanTurgut/git.controller" target="_blank"><img src=https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="github" height="40" width="40" /></a>
+<a align="left" href="https://github.com/AtakanTurgut/git.controller" target="_blank"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="github" height="40" width="40" /></a>
 </p>
 
 <!--<a href="https://github.com/AtakanTurgut/python-QRCode"><img src="https://raw.githubusercontent.com/AtakanTurgut/python-QRCode/main/iLoveThisPlaylist.jpg" alt="qrcode" width="100" height="100"/></a>
