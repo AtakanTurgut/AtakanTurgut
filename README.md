@@ -22,7 +22,7 @@ Interested in artificial intelligence, machine learning and deep learning, besid
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a align="left" target="_blank" href="https://www.youtube.com/watch?v=-sAmO2TUzgI&t=177s" target="blank"><img src="https://cdn.dida.do/blog/20210409_di_cv-labeling-tools/labelimg.png" alt="labelImg" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a align="left" href="https://github.com/AtakanTurgut/git.controller" target="_blank"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="github" height="40" width="40" /></a>
+<a align="left" href="https://github.com/AtakanTurgut/git.controller" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="github" height="40" width="40" /></a>
 </p>
 
 <!--<a href="https://github.com/AtakanTurgut/python-QRCode"><img src="https://raw.githubusercontent.com/AtakanTurgut/python-QRCode/main/iLoveThisPlaylist.jpg" alt="qrcode" width="100" height="100"/></a>
