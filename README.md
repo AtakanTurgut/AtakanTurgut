@@ -3,11 +3,11 @@
 
 # Hey, I'm Atakan Turgut! 
 Süleyman Demirel University. <br />
-Computer Engineering 4th Year Student from 2020 to present.  <br />
+Computer Engineering.  <br />
 Interested in artificial intelligence, machine learning and deep learning, besides .NET Technologies.  <br />
 <p align="left">
  <h1>
-<a href="https://www.instagram.com/atkn.trgt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/atakan-turgut-8b3847206" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a target="_blank" href="https://github.com/AtakanTurgut/AtakanTurgut/blob/aboutMe/Atakan_Turgut_Brief.pdf"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1803/1803198.png" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a href="mailto: atakan.trgt@hotmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="AtakanTurgutMail" height="40" width="40" /></a>
+<a href="https://www.instagram.com/atkn.trgt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/atakan-turgut-8b3847206" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a target="_blank" href="https://github.com/AtakanTurgut/AtakanTurgut/blob/aboutMe/Atakan_Turgut_Brief_Frm.pdf"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1803/1803198.png" alt="AtakanTurgut" height="40" width="40" /></a>&nbsp;<a href="mailto: atakan.trgt@hotmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="AtakanTurgutMail" height="40" width="40" /></a>
   </h1>
 </p>
 <p align="left"> 
