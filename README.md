@@ -3,14 +3,10 @@
 Süleyman Demirel University – Computer Engineering  
 .NET Developer | Software Developer  
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtakanTurgut&count_private=true&show_icons=true&theme=catppuccin_mocha" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtakanTurgut&theme=catppuccin_mocha" height="170"/>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/AtakanTurgut/AtakanTurgut/blob/aboutMe/Atakan_Turgut_Brief_Frm.pdf">
@@ -27,16 +23,13 @@ Süleyman Demirel University – Computer Engineering
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
-  <img src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-</p>
 
-<p align="center">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
